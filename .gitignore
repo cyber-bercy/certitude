@@ -67,9 +67,4 @@ Temporary Items
 # End of https://www.gitignore.io/api/macos
 
 ### rajout JPP
-/bin/
-ressources/db/tamis.db
-*.log
-*.tsv
-vfs*.go
-cmd/iptoasn/main
+certitude
